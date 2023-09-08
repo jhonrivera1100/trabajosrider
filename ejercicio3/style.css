@@ -1,0 +1,12 @@
+#element {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    transition: transform 0.5s ease;
+  }
+
+  #boton{
+   border-radius: 22px;
+   width: 100px;
+   height: 20px;
+  }
